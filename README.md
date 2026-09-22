@@ -7,6 +7,10 @@ A governed multi-agent workflow for project intake, portfolio prioritization, ri
 
 > Independent portfolio project using synthetic initiatives. Not affiliated with Infineon.
 
+## Dashboard preview
+
+![Agentic AI Project Office dashboard preview](docs/assets/dashboard-preview.png)
+
 ## Agents
 
 - **Intake agent:** validates objectives, owners, benefits and deadlines
@@ -48,4 +52,3 @@ streamlit run src/project_office/dashboard.py
 ```
 
 See [governance and evaluation](docs/governance.md).
-
